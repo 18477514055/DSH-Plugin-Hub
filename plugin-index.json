@@ -1,7 +1,7 @@
 {
   "schema": "dsh-plugin-index/v1",
   "repo": "18477514055/DSH-Plugin-Hub",
-  "updatedAt": "2026-09-21T06:32:06.847Z",
+  "updatedAt": "2026-09-21T09:14:45.882Z",
   "entries": [
     {
       "name": "dsh-archive-manager",
@@ -51,6 +51,19 @@
       "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-plugin-uploader-0.1.2/dsh-plugin-uploader-0.1.2.tgz",
       "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-plugin-uploader-0.1.2",
       "publishedAt": "2026-09-21T05:05:56.515Z",
+      "keywords": [],
+      "platform": "web"
+    },
+    {
+      "name": "dsh-plugin-uploader",
+      "version": "0.1.3",
+      "file": "dsh-plugin-uploader-0.1.3.tgz",
+      "sha256": "60d8f43fef990ceeb127747f8f48f0aaab9d686cda2962347233ba84797b72b2",
+      "bytes": 74644,
+      "description": "",
+      "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-plugin-uploader-0.1.3/dsh-plugin-uploader-0.1.3.tgz",
+      "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-plugin-uploader-0.1.3",
+      "publishedAt": "2026-09-21T09:14:45.867Z",
       "keywords": [],
       "platform": "web"
     }
