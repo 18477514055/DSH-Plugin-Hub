@@ -1,8 +1,21 @@
 {
   "schema": "dsh-plugin-index/v1",
   "repo": "18477514055/DSH-Plugin-Hub",
-  "updatedAt": "2026-09-21T06:31:56.999Z",
+  "updatedAt": "2026-09-21T06:32:06.847Z",
   "entries": [
+    {
+      "name": "dsh-archive-manager",
+      "version": "0.1.0",
+      "file": "dsh-archive-manager-0.1.0.tgz",
+      "sha256": "746808a1d69c8821c450ce51ff97bf0c1fcb86b17e5be5921746adb508450cf6",
+      "bytes": 49132,
+      "description": "",
+      "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-archive-manager-0.1.0/dsh-archive-manager-0.1.0.tgz",
+      "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-archive-manager-0.1.0",
+      "publishedAt": "2026-09-21T06:32:06.832Z",
+      "keywords": [],
+      "platform": "web"
+    },
     {
       "name": "dsh-multi-session",
       "version": "0.1.1",
