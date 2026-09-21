@@ -1,7 +1,7 @@
 {
   "schema": "dsh-plugin-index/v1",
   "repo": "18477514055/DSH-Plugin-Hub",
-  "updatedAt": "2026-09-21T09:42:14.921Z",
+  "updatedAt": "2026-09-21T16:31:29.541Z",
   "entries": [
     {
       "name": "dsh-archive-manager",
@@ -13,6 +13,19 @@
       "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-archive-manager-0.1.0/dsh-archive-manager-0.1.0.tgz",
       "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-archive-manager-0.1.0",
       "publishedAt": "2026-09-21T06:32:06.832Z",
+      "keywords": [],
+      "platform": "web"
+    },
+    {
+      "name": "dsh-mobile-remote",
+      "version": "0.3.0",
+      "file": "dsh-mobile-remote-0.3.0.tgz",
+      "sha256": "938ea93c12c39b4b7fb5663b35e3d50fb5a8ebcbc7f9033bafecbf0a9132be7a",
+      "bytes": 71153,
+      "description": "",
+      "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-mobile-remote-0.3.0/dsh-mobile-remote-0.3.0.tgz",
+      "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-mobile-remote-0.3.0",
+      "publishedAt": "2026-09-21T16:31:29.528Z",
       "keywords": [],
       "platform": "web"
     },
