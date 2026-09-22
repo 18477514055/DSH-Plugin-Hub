@@ -1,7 +1,7 @@
 {
   "schema": "dsh-plugin-index/v1",
   "repo": "18477514055/DSH-Plugin-Hub",
-  "updatedAt": "2026-09-22T08:19:43.627Z",
+  "updatedAt": "2026-09-22T08:20:01.851Z",
   "entries": [
     {
       "name": "dsh-archive-manager",
@@ -13,6 +13,19 @@
       "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-archive-manager-0.1.0/dsh-archive-manager-0.1.0.tgz",
       "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-archive-manager-0.1.0",
       "publishedAt": "2026-09-21T06:32:06.832Z",
+      "keywords": [],
+      "platform": "web"
+    },
+    {
+      "name": "dsh-int-archive-manager",
+      "version": "0.2.0",
+      "file": "dsh-int-archive-manager-0.2.0.tgz",
+      "sha256": "983d629df936efe5c96301d78cbeb7f828930e6703d1397a0b3343fe4f6e4e9f",
+      "bytes": 49345,
+      "description": "",
+      "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-int-archive-manager-0.2.0/dsh-int-archive-manager-0.2.0.tgz",
+      "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-int-archive-manager-0.2.0",
+      "publishedAt": "2026-09-22T08:20:01.837Z",
       "keywords": [],
       "platform": "web"
     },
