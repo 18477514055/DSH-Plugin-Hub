@@ -1,7 +1,7 @@
 {
   "schema": "dsh-plugin-index/v1",
   "repo": "18477514055/DSH-Plugin-Hub",
-  "updatedAt": "2026-09-22T08:20:01.851Z",
+  "updatedAt": "2026-09-22T08:20:13.802Z",
   "entries": [
     {
       "name": "dsh-archive-manager",
@@ -64,7 +64,7 @@
       "description": "",
       "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-multi-session-0.1.1/dsh-multi-session-0.1.1.tgz",
       "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-multi-session-0.1.1",
-      "publishedAt": "2026-09-21T06:31:56.982Z",
+      "publishedAt": "2026-09-22T08:20:13.790Z",
       "keywords": [],
       "platform": "web"
     },
