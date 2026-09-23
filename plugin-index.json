@@ -1,7 +1,7 @@
 {
   "schema": "dsh-plugin-index/v1",
   "repo": "18477514055/DSH-Plugin-Hub",
-  "updatedAt": "2026-09-23T17:16:01.489Z",
+  "updatedAt": "2026-09-23T17:42:02.402Z",
   "entries": [
     {
       "name": "dsh-int-archive-manager",
@@ -91,6 +91,20 @@
       "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-int-mobile-remote-0.9.0/dsh-int-mobile-remote-0.9.0.tgz",
       "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-int-mobile-remote-0.9.0",
       "publishedAt": "2026-09-23T17:16:01.469Z",
+      "keywords": [],
+      "platform": "web",
+      "tier": "plugin"
+    },
+    {
+      "name": "dsh-int-mobile-remote",
+      "version": "0.10.0",
+      "file": "dsh-int-mobile-remote-0.10.0.tgz",
+      "sha256": "bf56ba2e63306fd0a20436e8a697e4e7f428020efa7c1579140507829c182cd1",
+      "bytes": 108670,
+      "description": "手机遥控：电脑端显示二维码，手机扫码后经局域网远程查看会话、看流式输出、发消息、中断。 · Scan a QR code on the desktop and drive this DSH from your phone over LAN.",
+      "downloadUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/download/plugin-dsh-int-mobile-remote-0.10.0/dsh-int-mobile-remote-0.10.0.tgz",
+      "releaseUrl": "https://github.com/18477514055/DSH-Plugin-Hub/releases/tag/plugin-dsh-int-mobile-remote-0.10.0",
+      "publishedAt": "2026-09-23T17:42:02.391Z",
       "keywords": [],
       "platform": "web",
       "tier": "plugin"
